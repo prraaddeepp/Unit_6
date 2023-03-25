@@ -15,7 +15,6 @@ The following **required** functionality is completed:
 - [x] Users are able to log out and return to sign in page
 - [x] Users are NOT able to see other photos until they upload their own	
  
-T
 
 The following **additional** features are implemented:
 
@@ -25,7 +24,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./U6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./Unit_6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Ezgif. 
